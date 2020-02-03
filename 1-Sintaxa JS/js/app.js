@@ -93,3 +93,20 @@ console.log(1 + 2)
 console.log(sum(1, 2))
 console.log(sum(-1, 2))
 console.log(sum(2))
+
+/*Tipuri de date*/
+console.clear();
+let number = 1;
+let string = "Ion";
+let boolean = true;
+
+console.log(number);
+console.log(string);
+console.log(boolean);
+
+
+console.log(typeof 1);
+console.log(typeof 1.3);
+console.log(typeof "1");
+console.log(typeof true);
+
