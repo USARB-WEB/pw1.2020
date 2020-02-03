@@ -110,3 +110,16 @@ console.log(typeof 1.3);
 console.log(typeof "1");
 console.log(typeof true);
 
+/*Masive(tablouri)*/
+console.clear();
+const numbers = [5, 8, 30, 1];
+console.log(numbers);
+numbers.push(6);
+console.log(numbers);
+numbers.sort(function(){
+	//Todo de facut ca algoritmul sa filtreze masivul
+	return b - a;
+});
+console.log(numbers);
+numbers.splice(1, 2);
+console.log(numbers);
