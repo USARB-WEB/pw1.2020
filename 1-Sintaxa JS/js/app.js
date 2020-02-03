@@ -73,7 +73,7 @@ for(let i = 1; i < 100; i++){
 }
 
 let i = 1;
-while( i < 100){
+while(i < 100){
 	console.log(i);	
 	i++;
 }
@@ -84,5 +84,12 @@ do{
 	i++;
 }while( i < 100);
 
+function sum(a, b){
+	console.log(b);
+	return a + b;
+}
 
-
+console.log(1 + 2)
+console.log(sum(1, 2))
+console.log(sum(-1, 2))
+console.log(sum(2))
