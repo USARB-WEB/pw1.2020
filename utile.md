@@ -18,3 +18,7 @@ Editoare offline:
 * Visual Studio Code
 * WebStorm (Jetbrains)
 
+
+Instrumente pentru prelucrarea JSON:
+
+* https://jsoneditoronline.org/
