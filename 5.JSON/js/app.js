@@ -24,3 +24,17 @@ console.log(responseObject);
 
 
 
+/*Object to JSON*/
+
+const carObject = {
+	brand: "Merceder",
+	model: "G class",
+	parameters: {
+		width: 1500,
+		length: 4000
+	}
+};
+
+
+const carJSON = JSON.stringify(carObject);
+console.log(carJSON);
