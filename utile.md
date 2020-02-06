@@ -19,6 +19,10 @@ Editoare offline:
 * WebStorm (Jetbrains)
 
 
+Instrumente necesare:
+
+* https://nodejs.org/en/
+
 Instrumente pentru prelucrarea JSON:
 
 * https://jsoneditoronline.org/
