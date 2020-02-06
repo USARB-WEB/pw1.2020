@@ -5,3 +5,4 @@ In acest repozitoriu vor fi publicate:
 * temele de acasa
 * cerintele pentru lucrarile de laborator
 * cerintele pentru examenul final
+* lista proiectelor pentru examenul final
