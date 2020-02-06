@@ -22,3 +22,4 @@ Editoare offline:
 Instrumente pentru prelucrarea JSON:
 
 * https://jsoneditoronline.org/
+* Server JSON https://github.com/typicode/json-server
