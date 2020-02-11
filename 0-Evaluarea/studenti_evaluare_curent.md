@@ -7,7 +7,7 @@ IS21Z
 6. Nagoreanschi Ghenadie - proiect "Joc Tetris"
 7. Odobescu Vladislav - proiect "Configurator comanda pizza"
 8. Peterman Maxim - 
-9. Prisacari Ion - 
+9. Prisacari Ion - proiect "Internet magazin"
 10. Vasilcic Renata - 
 11. Vovod Stanislava - proiect ???
 12. Soha Igor - laborator
