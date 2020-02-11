@@ -16,6 +16,6 @@ MI41Z
 
 1. Beleaeva Vladislava - proiect "Configurator comanda pizza"
 2. Cojusnean Mihail - proiect "Configurator automobile"
-3. Covalschi Liubomir - proiect ???
+3. Covalschi Liubomir - proiect "Internet magazin"
 4. Damian Corina - 
 5. Gheorghita Iana - 
