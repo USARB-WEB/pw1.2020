@@ -1,3 +1,6 @@
+Titular curs: asist. univ. Sergiu Chilat
+E-mail: chilatsergiu@gmail.com
+
 Documentatie:
 
 * https://javascript.info/
