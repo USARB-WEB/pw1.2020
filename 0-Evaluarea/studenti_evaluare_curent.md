@@ -9,7 +9,7 @@ IS21Z
 8. Peterman Maxim - 
 9. Prisacari Ion - proiect "Internet magazin"
 10. Vasilcic Renata - 
-11. Vovod Stanislava - proiect ???
+11. Vovod Stanislava - proiect "Configurator PC"
 12. Soha Igor - laborator
 
 MI41Z
@@ -17,5 +17,5 @@ MI41Z
 1. Beleaeva Vladislava - proiect "Configurator comanda pizza"
 2. Cojusnean Mihail - proiect "Configurator automobile"
 3. Covalschi Liubomir - proiect "Internet magazin"
-4. Damian Corina - 
-5. Gheorghita Iana - 
+4. Damian Corina - proiect "Configurator pachet turistic"
+5. Gheorghita Iana - proiect "Internet magazin"
