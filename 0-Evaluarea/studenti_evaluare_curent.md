@@ -3,7 +3,7 @@ IS21Z
 2. Cebonas Igor - proiect "Internet magazin"
 3. Edinac Maxim - laborator
 4. Mihai Valentin - proiect "Configurator pachet turistic"
-5. Mitriniuc Eric - proiect ???
+5. Mitriniuc Eric - proiect "Configurator comanda pizza"
 6. Nagoreanschi Ghenadie - proiect "Joc Tetris"
 7. Odobescu Vladislav - proiect "Configurator comanda pizza"
 8. Peterman Maxim - 
