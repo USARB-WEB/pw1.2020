@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+  <div id="app">
+    {{ message }}
+    <span v-if="showed">Showed</span>
+    <ul>
+      <li v-for="number in numbers">number {{number}}</li>
+    </ul>
+
+    <ul>
+      <li v-for="number in sortedNumbers">number {{number}}</li>
+    </ul>
+
+    <input type="text" v-model="message">
+
+    <hr>
+    <input type="text" v-model="a"> + <input type="text" v-model="b"> = <span>{{result}}</span>
+  </div>
+  <hr>
+  <hr>
+  <div id="app2">
+    <ul>
+      <li v-for="student in students">{{student.name}} - {{student.age}}</li>
+    </ul>
+  </div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
