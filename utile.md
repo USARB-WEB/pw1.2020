@@ -30,3 +30,7 @@ Instrumente pentru prelucrarea JSON:
 
 * https://jsoneditoronline.org/
 * Server JSON https://github.com/typicode/json-server
+
+Cursuri gratuite pe Link Academy
+
+https://htmlacademy.ru/for_schools/join/564645fbd0332f066cbd9d083ddd077c
