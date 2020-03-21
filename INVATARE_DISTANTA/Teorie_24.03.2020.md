@@ -9,3 +9,7 @@ vuejs.org/v2/guide/conditional.html
 3. Afisarea listelor
 https://vuejs.org/v2/guide/list.html
 4. Prelucrarea evenimentelor https://vuejs.org/v2/guide/events.html
+
+Lectia va fi promovata prin intermediul aplicatiei https://discordapp.com/
+Este necesar ca fiecare din voi sa isi instaleze aceasta aplicatie.
+Dupa instalare, accesati linkul https://discord.gg/XRX7gy pentru a va conecta la chatul in care va fi promovata ora de teorie.
