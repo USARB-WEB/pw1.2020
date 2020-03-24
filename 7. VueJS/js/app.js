@@ -35,6 +35,10 @@ var app2 = new Vue({
       {
         name: "Vasile Alecsandri",
         age: 78
+      },
+      {
+        name: "Petru",
+        age: 12
       }
     ]
   }

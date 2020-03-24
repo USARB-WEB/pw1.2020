@@ -16,6 +16,7 @@ Structura repozitoriului:
 - 5 - JSON - Exemple practice de prelucrare a informatiei in formatul JSON
 - 6 - JSON server. Exmple practice de interactiune intre FrontEnd si BackEnd
 - 7 - VUE - crearea plicatiilor cu utilizarea framework-ului VueJS
+- 8 - VUE NPM - proiectul VUE instalat prin NPM
 - TA - Temele pentru acasa
 
 Utile.md - Informatie utila pentru curs
