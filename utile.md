@@ -34,3 +34,8 @@ Instrumente pentru prelucrarea JSON:
 Cursuri gratuite pe Link Academy (cine are nevoie, va inregistrati si dupa asta imi comunicati numele de utilizator, pentru a va deschide acces)
 
 https://htmlacademy.ru/for_schools/join/564645fbd0332f066cbd9d083ddd077c
+
+
+Framewokr-uri VUE:
+ - https://vuetifyjs.com/
+ - https://bootstrap-vue.js.org/
