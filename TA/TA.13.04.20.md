@@ -1,0 +1,7 @@
+- Structura Componentei VUE
+- data (valorile necalculabile)
+- computed (valorile calculabile)
+- watch 
+- directive (v-if, v-show, v-for)
+- Cicluri de viata ale componentei VUE
+- props (transmiterea datelot intre componente)
